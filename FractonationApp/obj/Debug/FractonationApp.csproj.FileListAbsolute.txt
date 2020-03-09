@@ -1,0 +1,40 @@
+C:\Users\kmarciniak\source\Repos\FractonationApp\FractonationApp\bin\Debug\FractonationApp.exe.config
+C:\Users\kmarciniak\source\Repos\FractonationApp\FractonationApp\bin\Debug\FractonationApp.exe
+C:\Users\kmarciniak\source\Repos\FractonationApp\FractonationApp\bin\Debug\FractonationApp.pdb
+C:\Users\kmarciniak\source\Repos\FractonationApp\FractonationApp\obj\Debug\FractonationApp.csprojAssemblyReference.cache
+C:\Users\kmarciniak\source\Repos\FractonationApp\FractonationApp\obj\Debug\FractonationApp.Properties.Resources.resources
+C:\Users\kmarciniak\source\Repos\FractonationApp\FractonationApp\obj\Debug\FractonationApp.csproj.GenerateResource.cache
+C:\Users\kmarciniak\source\Repos\FractonationApp\FractonationApp\obj\Debug\FractonationApp.csproj.CoreCompileInputs.cache
+C:\Users\kmarciniak\source\Repos\FractonationApp\FractonationApp\obj\Debug\FractonationApp.exe
+C:\Users\kmarciniak\source\Repos\FractonationApp\FractonationApp\obj\Debug\FractonationApp.pdb
+C:\Users\kmarciniak\source\Repos\FractonationApp\FractonationApp\obj\Debug\FractonationApp.Form1.resources
+H:\Studia\POD\FractonationApp\FractonationApp\bin\Debug\FractonationApp.exe.config
+H:\Studia\POD\FractonationApp\FractonationApp\bin\Debug\FractonationApp.exe
+H:\Studia\POD\FractonationApp\FractonationApp\bin\Debug\FractonationApp.pdb
+H:\Studia\POD\FractonationApp\FractonationApp\obj\Debug\FractonationApp.csprojAssemblyReference.cache
+H:\Studia\POD\FractonationApp\FractonationApp\obj\Debug\FractonationApp.Form1.resources
+H:\Studia\POD\FractonationApp\FractonationApp\obj\Debug\FractonationApp.Properties.Resources.resources
+H:\Studia\POD\FractonationApp\FractonationApp\obj\Debug\FractonationApp.csproj.GenerateResource.cache
+H:\Studia\POD\FractonationApp\FractonationApp\obj\Debug\FractonationApp.csproj.CoreCompileInputs.cache
+H:\Studia\POD\FractonationApp\FractonationApp\obj\Debug\FractonationApp.exe
+H:\Studia\POD\FractonationApp\FractonationApp\obj\Debug\FractonationApp.pdb
+F:\Studia\POD\FractonationApp\FractonationApp\bin\Debug\FractonationApp.exe.config
+F:\Studia\POD\FractonationApp\FractonationApp\bin\Debug\FractonationApp.exe
+F:\Studia\POD\FractonationApp\FractonationApp\bin\Debug\FractonationApp.pdb
+F:\Studia\POD\FractonationApp\FractonationApp\obj\Debug\FractonationApp.csprojAssemblyReference.cache
+F:\Studia\POD\FractonationApp\FractonationApp\obj\Debug\FractonationApp.Form1.resources
+F:\Studia\POD\FractonationApp\FractonationApp\obj\Debug\FractonationApp.Properties.Resources.resources
+F:\Studia\POD\FractonationApp\FractonationApp\obj\Debug\FractonationApp.csproj.GenerateResource.cache
+F:\Studia\POD\FractonationApp\FractonationApp\obj\Debug\FractonationApp.csproj.CoreCompileInputs.cache
+F:\Studia\POD\FractonationApp\FractonationApp\obj\Debug\FractonationApp.exe
+F:\Studia\POD\FractonationApp\FractonationApp\obj\Debug\FractonationApp.pdb
+E:\Programy POD\FractonationApp\FractonationApp\bin\Debug\FractonationApp.exe.config
+E:\Programy POD\FractonationApp\FractonationApp\bin\Debug\FractonationApp.exe
+E:\Programy POD\FractonationApp\FractonationApp\bin\Debug\FractonationApp.pdb
+E:\Programy POD\FractonationApp\FractonationApp\obj\Debug\FractonationApp.csprojAssemblyReference.cache
+E:\Programy POD\FractonationApp\FractonationApp\obj\Debug\FractonationApp.Form1.resources
+E:\Programy POD\FractonationApp\FractonationApp\obj\Debug\FractonationApp.Properties.Resources.resources
+E:\Programy POD\FractonationApp\FractonationApp\obj\Debug\FractonationApp.csproj.GenerateResource.cache
+E:\Programy POD\FractonationApp\FractonationApp\obj\Debug\FractonationApp.csproj.CoreCompileInputs.cache
+E:\Programy POD\FractonationApp\FractonationApp\obj\Debug\FractonationApp.exe
+E:\Programy POD\FractonationApp\FractonationApp\obj\Debug\FractonationApp.pdb
